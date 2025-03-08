@@ -1,6 +1,6 @@
 # Vapeneo
 
-Welcome to the official repository for ​**Hangzhou Jarvis Electronic Commerce Co., Ltd.**, specializing in the e-cigarette business. This repository contains the website files for our company's online presence.
+Welcome to the official repository for ​**杭州贾维斯电子商务有限公司**, specializing in the e-cigarette business. This repository contains the website files for our company's online presence.
 
 ---
 
@@ -21,4 +21,4 @@ Welcome to the official repository for ​**Hangzhou Jarvis Electronic Commerce 
 
 ## ​**Repository Structure**
 # Vapeneo
-This repository contains the website files for Hangzhou Jarvis Electronic Commerce Co., Ltd., specializing in e-cigarette business
+This repository contains the website files for 杭州贾维斯电子商务有限公司, specializing in e-cigarette business
